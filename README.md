@@ -9,4 +9,4 @@ Messing with computers since childhood. Out in nature the rest of the time.
 #### Projects
 - [PyWomboAPI](https://github.com/Ferre-V/PyWomboAPI) - Python wrapper for Wombo Dream
 - [Lunar Insight](https://github.com/Ferre-V/Lunar-Insight) - Rust practice project
-- [Website Gullegem on Fire](https://gullegemonfire.be) - Lading page made with Astro
+- [Website Gullegem on Fire](https://gullegemonfire.be) - Landing page made with Astro
